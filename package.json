@@ -1,0 +1,12 @@
+{
+    "name": "Auto_scale_project",
+    "description": "this project to scale the vicheal automatic",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "scale.json",
+            "credentialsFile": "scale_cred.json"
+        }
+    }
+}
